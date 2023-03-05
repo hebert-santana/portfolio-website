@@ -49,3 +49,4 @@ botaoCopiar.forEach(item => {
         }, 3000);
     })
 })
+
